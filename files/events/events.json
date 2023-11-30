@@ -1,0 +1,128 @@
+{
+    "802198125838073876": {
+        "School": [
+            {
+                "Category": "School",
+                "Name": "Fire Drill",
+                "Desc": "A fire drill has started!",
+                "Chance": "25"
+            }
+        ],
+        "Work": [],
+        "Kingdom": []
+    },
+    "1071587630866776144": {
+        "Kingdom": [
+            {
+                "Category": "Kingdom",
+                "Name": "Death",
+                "Desc": "A royal has died!",
+                "Chance": "25"
+            }
+        ],
+        "School": [
+            {
+                "Category": "School",
+                "Name": "Fire",
+                "Desc": "The school caught fire! Evacuate!",
+                "Chance": "25"
+            },
+            {
+                "Category": "School",
+                "Name": "Finals",
+                "Desc": "The finals had begun! Good luck!",
+                "Chance": "25"
+            }
+        ],
+        "Global": [
+            {
+                "Category": "Global",
+                "Name": "Rain",
+                "Desc": "Rain has started!",
+                "Chance": "25"
+            },
+            {
+                "Category": "Global",
+                "Name": "Heat",
+                "Desc": "A heat wave has started!",
+                "Chance": "25"
+            }
+        ]
+    },
+    "1072551599345512528": {
+        "Zombies": [
+            {
+                "Category": "Zombies",
+                "Name": "Zombie Attack",
+                "Desc": "A group of zombies started attacking the city",
+                "Chance": "25"
+            },
+            {
+                "Category": "Zombies",
+                "Name": "Giant Zombie",
+                "Desc": "A giant zombie appears at the entrance to the city",
+                "Chance": "25"
+            },
+            {
+                "Category": "Zombies",
+                "Name": "Horde Attack",
+                "Desc": "A giant horde attacks the city",
+                "Chance": "25"
+            }
+        ],
+        "Weather": [
+            {
+                "Category": "Weather",
+                "Name": "Rain",
+                "Desc": "Rain has started falling",
+                "Chance": "25"
+            },
+            {
+                "Category": "Weather",
+                "Name": "Heat",
+                "Desc": "A heat wave has begun",
+                "Chance": "25"
+            }
+        ],
+        "Human": [
+            {
+                "Category": "Human",
+                "Name": "Airstrike",
+                "Desc": "The military has begun an airstrike!",
+                "Chance": "25"
+            },
+            {
+                "Category": "Human",
+                "Name": "Supplies",
+                "Desc": "The military has dropped supplies!",
+                "Chance": "25"
+            }
+        ]
+    },
+    "1072557560290357268": {
+        "Weather": [
+            {
+                "Category": "Weather",
+                "Name": "Thunderstorm",
+                "Desc": "A thunderstorm has started",
+                "Chance": "25"
+            }
+        ]
+    },
+    "1133514647656480881": {
+        "test": [
+            {
+                "Category": "test",
+                "Name": "showcase event 1",
+                "Desc": "this is scary event 1",
+                "Chance": "25"
+            },
+            {
+                "Category": "test",
+                "Name": "showcase event 2",
+                "Desc": "this is scary event 2",
+                "Chance": "25"
+            }
+        ]
+    }
+}

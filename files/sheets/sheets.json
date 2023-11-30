@@ -1,0 +1,285 @@
+{
+    "644567247402303509": {
+        "ZeUnlucky": {
+            "Params": [
+                "Name",
+                "Age",
+                "Pic",
+                "Anyfield",
+                "Color"
+            ],
+            "Name": "Amazing Spiderman",
+            "Age": "162",
+            "Pic": "https://learnenglishkids.britishcouncil.org/sites/kids/files/styles/430x261_4/public/image/worksheets-acrostic-poems_1.png?itok=TgyrlqjA",
+            "Anyfield": "This is a field.",
+            "Color": "219C9E"
+        },
+        "George": {
+            "Params": [
+                "Name",
+                "Pic",
+                "Color"
+            ],
+            "Name": "George",
+            "Pic": "https://cdn.discordapp.com/attachments/1071838370931679242/1072234912230424658/redpanda.jpg",
+            "Color": "219C9E"
+        },
+        "Abc": {
+            "Params": [
+                "Name",
+                "Pic",
+                "Color"
+            ],
+            "Name": "Abc",
+            "Pic": "https://cdn.discordapp.com/attachments/1073355735695626280/1077852870055047188/can_u_dont_pls.png",
+            "Color": "FF00FF"
+        },
+        "Mark": {
+            "Params": [
+                "Name",
+                "Age",
+                "Pic",
+                "Color"
+            ],
+            "Name": "Mark Fean",
+            "Age": "20",
+            "Pic": "https://cdn.discordapp.com/attachments/1133514648784732174/1133516256117530664/mark.jpeg",
+            "Color": "FFFFFF"
+        }
+    },
+    "297539730835505153": {
+        "Bassel": {
+            "Params": [
+                "Name",
+                "Age",
+                "Birthday",
+                "Gender",
+                "Sexuality",
+                "Pronouns",
+                "Nickname(s)",
+                "Height",
+                "Occupation",
+                "Pic",
+                "Mastery"
+            ],
+            "Name": "Bassel Atticus Deforte",
+            "Age": "24",
+            "Birthday": "December 14th",
+            "Gender": "Male",
+            "Sexuality": "Bisexual",
+            "Pronouns": "He/Him",
+            "Nickname(s)": "Bassie (Commonly used by Onaki), \"Golden Boy\" (informally)",
+            "Height": "6'2\"",
+            "Occupation": "Captain Of Asmye",
+            "Pic": "https://cdn.discordapp.com/attachments/994238149867872346/1077343231509020692/129N0AEnhz65fb0VOMBOW8Ktam6UgvoOrSkf44Q2clln6arlKh2sh24XPAx8vOg.png",
+            "Mastery": "Mythical"
+        },
+        "Atreyu": {
+            "Params": [
+                "Name",
+                "Age",
+                "Birthday",
+                "Gender",
+                "Sexuality",
+                "Pronouns",
+                "Nickname(s)",
+                "Height",
+                "Occupation",
+                "Mastery"
+            ],
+            "Name": "Atreyu L. Chamberlain",
+            "Age": "24",
+            "Birthday": "April 11th",
+            "Gender": "Male",
+            "Sexuality": "Homosexual (Gay)",
+            "Pronouns": "He/Him",
+            "Nickname(s)": "None, feel free to give him one",
+            "Height": "5'11\"",
+            "Occupation": "Second In Command (Shoavania)",
+            "Mastery": "Expert"
+        }
+    },
+    "505819495571652624": {
+        "Kasey": {
+            "Params": [
+                "Name",
+                "Age",
+                "Pic"
+            ],
+            "Name": "Kasey",
+            "Age": "31",
+            "Pic": "https://cdn.discordapp.com/attachments/1071587631344918531/1071674390711906304/11c7dd3bc3d2893f318e400ecb11d7d7.jpg"
+        }
+    },
+    "625410490998325279": {
+        "Stelaria": {
+            "Params": [
+                "Name"
+            ],
+            "Name": "Stelaria"
+        }
+    },
+    "302461148098199553": {
+        "-id/Tyrell": {
+            "Params": [
+                "Name"
+            ],
+            "Name": "-id/Tyrell"
+        },
+        "Tyrell": {
+            "Params": [
+                "Name"
+            ],
+            "Name": "Tyrell"
+        }
+    },
+    "767870022873120798": {
+        "Sam": {
+            "Params": [
+                "Name",
+                null,
+                "Age",
+                "Personality"
+            ],
+            "Name": "Sam Puckett",
+            "Age": "15",
+            "Personality": "butter"
+        }
+    },
+    "793217216979533914": {
+        "Kyomi": {
+            "Params": [
+                "Name",
+                "Pronouns",
+                "Pic",
+                "Age"
+            ],
+            "Name": "Kyomi Oma",
+            "Pronouns": "She/Her",
+            "Pic": "https://cdn.discordapp.com/attachments/1072569784111222805/1072621318995968000/IMG_2405.png",
+            "Age": "190k years"
+        },
+        "Otākai": {
+            "Params": [
+                "Name",
+                "Pic",
+                "Pronouns",
+                "Age",
+                "Species",
+                "Birthday",
+                "Gender",
+                "Sexuality"
+            ],
+            "Name": "Otākai Seioku",
+            "Pic": "https://cdn.discordapp.com/attachments/1072622774864064522/1072626080948686968/IMG_1344.jpg",
+            "Pronouns": "He/Him",
+            "Age": "5million years",
+            "Species": "Guarded Angel",
+            "Birthday": "03/06/XXXX",
+            "Gender": "Male",
+            "Sexuality": "Pansexual"
+        }
+    },
+    "572111554703523851": {
+        "Gula": {
+            "Params": [
+                "Name",
+                "Pic",
+                "Pronouns"
+            ],
+            "Name": "Gula Esuriit",
+            "Pic": "https://cdn.discordapp.com/attachments/1072622774864064522/1072628190184489020/81f34cbdb5e37a0bcb7e03b975817d31.png",
+            "Pronouns": "He/Him"
+        }
+    },
+    "898283037396185138": {
+        "Xia": {
+            "Params": [
+                "Name",
+                "Trinous"
+            ],
+            "Name": "Xia Trinous",
+            "Trinous": "Age 12,021"
+        },
+        "Nick": {
+            "Params": [
+                "Name",
+                "Everlasting",
+                "Gender"
+            ],
+            "Name": "Nick Everlasting",
+            "Everlasting": "Age 5 Million years",
+            "Gender": "Male"
+        }
+    },
+    "458027000876105729": {
+        "Shinsei": {
+            "Params": [
+                "Name",
+                "Pic",
+                "Pronouns",
+                "Age"
+            ],
+            "Name": "Shinsei Ushi",
+            "Pic": "https://cdn.discordapp.com/attachments/1072622774864064522/1072629276911865966/IMG_4437.jpg",
+            "Pronouns": "He/him",
+            "Age": "9.1 billion"
+        }
+    },
+    "828260483802464276": {
+        "Riot": {
+            "Params": [
+                "Name",
+                "Age",
+                "Sexuality",
+                "Species",
+                "Pronouns"
+            ],
+            "Name": "Riot Elrodden",
+            "Age": "37",
+            "Sexuality": "Homosexual",
+            "Species": "Bat + Human",
+            "Pronouns": "He/Him"
+        }
+    },
+    "412256931831349248": {
+        "Anton": {
+            "Params": [
+                "Name",
+                "Pic",
+                "Age",
+                "Pronouns",
+                "Sexuality"
+            ],
+            "Name": "Anton Arafir",
+            "Pic": "https://cdn.discordapp.com/attachments/1072634236764426250/1072635228230787212/d7e8756640d0c9a19bdbffd7c4bb0c7c.png",
+            "Age": "28",
+            "Pronouns": "He/Him",
+            "Sexuality": "Homosexual"
+        }
+    },
+    "546668489222389760": {
+        "Linda": {
+            "Params": [
+                "Name",
+                "Color"
+            ],
+            "Name": "Linda Drogon",
+            "Color": "219C9E"
+        }
+    },
+    "361870251761205249": {
+        "-id/Twiejk": {
+            "Params": [
+                "Name"
+            ],
+            "Name": "-id/Twiejk"
+        },
+        "-Twiejk": {
+            "Params": [
+                "Name"
+            ],
+            "Name": "-Twiejk"
+        }
+    }
+}

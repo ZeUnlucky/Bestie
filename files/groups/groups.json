@@ -1,0 +1,126 @@
+{
+    "802198125838073876": {
+        "cat": {
+            "Name": "cat",
+            "Size": 2,
+            "Vacancy": 1,
+            "Residents": [
+                "u"
+            ]
+        },
+        "dog": {
+            "Name": "dog",
+            "Size": 4,
+            "Vacancy": 4,
+            "Residents": []
+        }
+    },
+    "1071587630866776144": {
+        "A1": {
+            "Name": "A1",
+            "Size": 5,
+            "Vacancy": 4,
+            "Residents": [
+                "Josh"
+            ]
+        },
+        "A2": {
+            "Name": "A2",
+            "Size": 5,
+            "Vacancy": 5,
+            "Residents": []
+        }
+    },
+    "1072345275827490906": {
+        "dungeon": {
+            "Name": "dungeon",
+            "Size": 100,
+            "Vacancy": 99,
+            "Residents": [
+                "Tyrell"
+            ]
+        }
+    },
+    "1072551599345512528": {
+        "Test": {
+            "Name": "Test",
+            "Size": 3,
+            "Vacancy": 0,
+            "Residents": [
+                "Josh",
+                "A",
+                "B"
+            ]
+        },
+        "B": {
+            "Name": "B",
+            "Size": 4,
+            "Vacancy": 3,
+            "Residents": [
+                "D"
+            ]
+        },
+        "C": {
+            "Name": "C",
+            "Size": 4,
+            "Vacancy": 3,
+            "Residents": [
+                "Michael"
+            ]
+        },
+        "Bastille": {
+            "Name": "Bastille",
+            "Size": 45,
+            "Vacancy": 45,
+            "Residents": []
+        }
+    },
+    "1072557560290357268": {
+        "DormA": {
+            "Name": "DormA",
+            "Size": 5,
+            "Vacancy": 2,
+            "Residents": [
+                "Jenny",
+                "George",
+                "Gabe"
+            ]
+        },
+        "DormB": {
+            "Name": "DormB",
+            "Size": 5,
+            "Vacancy": 3,
+            "Residents": [
+                "Jeff",
+                "John"
+            ]
+        },
+        "iCarly": {
+            "Name": "iCarly",
+            "Size": 5,
+            "Vacancy": 3,
+            "Residents": [
+                "Carly",
+                "Spencer"
+            ]
+        }
+    },
+    "1133514647656480881": {
+        "crips": {
+            "Name": "crips",
+            "Size": 5,
+            "Vacancy": 4,
+            "Residents": [
+                "james"
+            ]
+        },
+        "bloodz": {
+            "Name": "bloodz",
+            "Size": 7,
+            "Vacancy": 6,
+            "Residents": [
+                "john"
+            ]
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"name": " ",
+	"version": "1.0.0",
+	"description": " ",
+	"main": "bot.js",
+	"author": "ZeUnlucky",
+	"dependencies": {
+		"discord.io": "",
+		"discord.js": "^14.7.1",
+		"discord.js-pagination": "^1.0.3",
+		"discordjs-button-pagination": "^1.0.7",
+		"fs": "0.0.1-security",
+		"moment": "^2.29.1",
+		"util": "^0.12.3"
+	}
+}
